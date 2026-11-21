@@ -2,7 +2,7 @@
 
 Original worksheets and worked examples for service enquiries, purchasing records, and editorial handovers. The examples are fictional.
 
-Read the [Public Field Worksheets blog](https://plok.sh/BlackstoneAI91/public-field-worksheets) or open a guide below.
+Read the [Public Field Worksheets blog](https://plok.sh/blackstoneai91/public-field-worksheets) or open a guide below.
 
 - [Filing an Airbnb laundry collection note](https://plok.sh/BlackstoneAI91/public-field-worksheets/tracking-an-unconfirmed-collection-note-in-an-airbnb-laundry-handback)
 - [Comparing dog accessories on a shared screen](https://plok.sh/BlackstoneAI91/public-field-worksheets/reading-a-pet-accessory-listing-on-a-shared-screen)
