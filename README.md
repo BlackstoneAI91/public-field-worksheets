@@ -11,3 +11,4 @@ Read the [Public Field Worksheets blog](https://plok.sh/blackstoneai91/public-fi
 - [Writing the next step in a digital marketing review](https://plok.sh/BlackstoneAI91/public-field-worksheets/clear-next-steps-in-a-malaysian-digital-marketing-review-summary)
 
 The editable Markdown source for each guide is in [the blog folder](blog/).
+- [Reviewing Customer Uploads in a Mobile Enquiry App: A Test Worksheet](https://plok.sh/BlackstoneAI91/public-field-worksheets/reviewing-customer-upload-in-a-mobile-enquiry-app)
