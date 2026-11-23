@@ -18,6 +18,8 @@ This guide uses a fictional small business, a fictional digital marketing agency
 
 When the recommended change concerns unanswered direct messages or comments, pass the action to the [social media team](https://www.blackstoneintelligence.com.my/social-media-marketing-agency) with the message type and expected response route. A useful check is whether the next review can tell if the customer reached the person who can resolve the enquiry.
 
+In the fictional Kuching example, make the service-page action specific enough for a [Kuching web design team](https://www.blackstoneintelligence.com.my/web-design-kuching) to implement. State which page needs the revised contact route and test it with the person who receives messages before closing the action.
+
 ## The Unclear Version and What It Costs the Reader
 
 Here is a closing paragraph of the kind that causes confusion. The fictional business is a small equipment repair company in Kuching. The summary ends: "We discussed the service pages and the enquiry form. The agency will look at the wording and we will review the results later. Please advise."
