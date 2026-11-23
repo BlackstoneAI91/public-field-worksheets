@@ -16,6 +16,8 @@ For a Malaysian service business, this matters because the people who act on a s
 
 This guide uses a fictional small business, a fictional digital marketing agency and a fictional review meeting. Nothing here describes a real client, campaign or result. The aim is a writing habit: end every review summary with three labelled lines, and check them against the agenda that was agreed before the meeting. Blackstone Intelligence works in this space as a digital marketing agency alongside AI consulting and automation, web design and development, and custom software development, so the examples stay close to how such reviews are usually run.
 
+When the recommended change concerns unanswered direct messages or comments, pass the action to the [social media team](https://www.blackstoneintelligence.com.my/social-media-marketing-agency) with the message type and expected response route. A useful check is whether the next review can tell if the customer reached the person who can resolve the enquiry.
+
 ## The Unclear Version and What It Costs the Reader
 
 Here is a closing paragraph of the kind that causes confusion. The fictional business is a small equipment repair company in Kuching. The summary ends: "We discussed the service pages and the enquiry form. The agency will look at the wording and we will review the results later. Please advise."
